@@ -1,0 +1,4 @@
+#cloud-config
+swap:
+  filename: /swapfile
+  size: auto
